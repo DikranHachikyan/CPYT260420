@@ -4,7 +4,7 @@ print('Hello Python')
 print( 5 + 6)
 
 # %%
-a = 5.0
+a = 5
 b = 6
 
 print( a + b )
@@ -24,4 +24,3 @@ a = 1000
 
 print( id(a) )
 
-# %%
